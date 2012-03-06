@@ -1,0 +1,61 @@
+Dimension - 1
+Average fractional distance from origin - 1.0
+Average distance from nearest neighbor - 0.00100131338267
+
+Dimension - 2
+Average fractional distance from origin - 0.789
+Average distance from nearest neighbor - 0.0334068345295
+
+Dimension - 3
+Average fractional distance from origin - 0.537
+Average distance from nearest neighbor - 0.110413597599
+
+Dimension - 4
+Average fractional distance from origin - 0.303
+Average distance from nearest neighbor - 0.222433387677
+
+Dimension - 5
+Average fractional distance from origin - 0.165
+Average distance from nearest neighbor - 0.361171773556
+
+Dimension - 6
+Average fractional distance from origin - 0.083
+Average distance from nearest neighbor - 0.497985101546
+
+Dimension - 7
+Average fractional distance from origin - 0.033
+Average distance from nearest neighbor - 0.634418562933
+
+Dimension - 8
+Average fractional distance from origin - 0.015
+Average distance from nearest neighbor - 0.761753802215
+
+Dimension - 9
+Average fractional distance from origin - 0.006
+Average distance from nearest neighbor - 0.877707486415
+
+Dimension - 10
+Average fractional distance from origin - 0.0
+Average distance from nearest neighbor - 1.0031368816
+
+Dimension - 11
+Average fractional distance from origin - 0.0
+Average distance from nearest neighbor - 1.14947065461
+
+Dimension - 12
+Average fractional distance from origin - 0.002
+Average distance from nearest neighbor - 1.25297645242
+
+Dimension - 13
+Average fractional distance from origin - 0.0
+Average distance from nearest neighbor - 1.37022529075
+
+Dimension - 14
+Average fractional distance from origin - 0.001
+Average distance from nearest neighbor - 1.46330862686
+
+Dimension - 15
+Average fractional distance from origin - 0.0
+Average distance from nearest neighbor - 1.58852366092
+
+23.4516298771 seconds

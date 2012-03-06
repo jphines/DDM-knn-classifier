@@ -1,0 +1,112 @@
+grep '\<A.*\>' /usr/share/dict/words | wc -l
+    2559
+grep '\<A.*\>' /usr/share/dict/words | wc -l
+   17096
+grep '\<.*ing\>' /usr/share/dict/words | wc -l
+    5539
+grep '\<[Aa].*ing\>' /usr/share/dict/words | wc -l
+     134
+grep '^.\{4\}$' /usr/share/dict/words | wc -l
+    5272
+grep '^.*[aeiou].*[aeiou].*[aeiou].*[aeiou].*' /usr/share/dict/words | wc -l
+  129505
+grep '\([aeiou]\)\1' /usr/share/dict/words | wc -l
+    9048
+grep '^.*q[^u].*$\|^.*q$' /usr/share/dict/words
+Iraq
+Iraqi
+Iraqian
+Louiqa
+miqra
+nastaliq
+Pontacq
+q
+qasida
+qere
+qeri
+qintar
+qoph
+Saqib
+shoq
+Tareq
+zaqqum
+cut -c 1 /usr/share/dict/words | sort | uniq -c
+2559 A
+1395 B
+2495 C
+ 950 D
+ 918 E
+ 478 F
+1018 G
+1138 H
+ 496 I
+ 484 J
+ 546 K
+1073 L
+1907 M
+ 682 N
+ 630 O
+2290 P
+  77 Q
+ 716 R
+2403 S
+1577 T
+ 208 U
+ 361 V
+ 337 W
+  92 X
+ 139 Y
+ 230 Z
+14537 a
+9675 b
+17406 c
+9946 d
+7818 e
+6382 f
+5843 g
+7889 h
+8303 i
+1158 j
+1735 k
+5211 l
+10709 m
+6098 n
+7219 o
+22171 p
+1075 q
+8955 r
+22759 s
+11389 t
+16179 u
+3079 v
+3607 w
+ 293 x
+ 532 y
+ 719 z
+cut -c 1 /usr/share/dict/words | tr a-z A-Z | sort | uniq -c
+17096 A
+11070 B
+19901 C
+10896 D
+8736 E
+6860 F
+6861 G
+9027 H
+8799 I
+1642 J
+2281 K
+6284 L
+12616 M
+6780 N
+7849 O
+24461 P
+1152 Q
+9671 R
+25162 S
+12966 T
+16387 U
+3440 V
+3944 W
+ 385 X
+ 671 Y
+ 949 Z
